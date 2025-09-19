@@ -6,9 +6,9 @@
     <title>JavaScript</title>
 </head>
 <body>
-    <h1>le JavaScript</h1>
-     <script> 
-        alert ('Hello JavaScript !');
+    <h1>le JavaScript job02</h1>
+    <h2>Affichage à partir d'un fichier .js</h2>
+     <script src="script.js"> 
      </script>
 </body>
 </html>
