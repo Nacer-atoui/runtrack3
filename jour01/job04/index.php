@@ -6,8 +6,8 @@
     <title>JavaScript</title>
 </head>
 <body>
-    <h1>le JavaScript job03</h1>
-    <h2>Affichage à partir d'un fichier .js</h2>
+    <h1>le JavaScript job04</h1>
+    
      <script src="script.js"> 
      </script>
 </body>
