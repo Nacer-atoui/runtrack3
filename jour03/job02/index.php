@@ -18,12 +18,12 @@
 
     </div>
     <div class="arc_mix">
-        <img class="img4" id=4 src="arc4.png" alt="">
-        <img class="img2" id=2 src="arc2.png" alt="">
-        <img class="img6" id=6 src="arc6.png" alt="">
-        <img class="img1" id=1 src="arc1.png" alt="">
-        <img class="img3" id=3 src="arc3.png" alt="">
-        <img class="img5" id=5 src="arc5.png" alt="">
+        <img class="img" id="img4" src="arc4.png" alt="">
+        <img class="img" id="img2" src="arc2.png" alt="">
+        <img class="img" id="img6" src="arc6.png" alt="">
+        <img class="img" id="img1" src="arc1.png" alt="">
+        <img class="img" id="img3" src="arc3.png" alt="">
+        <img class="img" id="img5" src="arc5.png" alt="">
     </div>
 </body>
 </html>
